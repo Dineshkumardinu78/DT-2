@@ -20,7 +20,7 @@
     	    <a href="#" class="follow_btn hidden-xs">Everything Is Beautiful But Everything Isn't Beautiful</a>
 		</div>
         <div class="col-md-8  col-xs-12">
-           <img src="E:\eclipse 2\eclipse\workspace\cart\src\main\webapp\resources\images\dinesh.jpg.JPG" class="img-thumbnail picture hidden-xs" />
+           <img src="E:\eclipse 2\eclipse\workspace\cart\src\main\webapp\resources\images\kumar.jpj.JPG" class="img-thumbnail picture hidden-xs" />
            <img src="http://lorempixel.com/output/people-q-c-100-100-1.jpg" class="img-thumbnail visible-xs picture_mob" />
            <div class="header">
                 <h1>${user.firstname}</h1>
